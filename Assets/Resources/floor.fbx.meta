@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 4f40c968f79791d44bde48bb280380fa
+timeCreated: 1557546684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Cube.000
+    100006: Cube.001
+    100008: Cube.002
+    100010: Lamp
+    100012: Plane
+    100014: Plane.001
+    100016: Plane.002
+    100018: Plane.003
+    100020: tree
+    100022: tree.001
+    100024: tree.002
+    100026: tree.003
+    100028: tree.004
+    100030: tree.005
+    100032: tree.006
+    100034: tree.007
+    100036: tree.008
+    100038: tree.009
+    100040: tree.010
+    100042: tree.011
+    100044: tree.012
+    100046: tree.013
+    100048: tree.014
+    400000: //RootNode
+    400002: Camera
+    400004: Cube.000
+    400006: Cube.001
+    400008: Cube.002
+    400010: Lamp
+    400012: Plane
+    400014: Plane.001
+    400016: Plane.002
+    400018: Plane.003
+    400020: tree
+    400022: tree.001
+    400024: tree.002
+    400026: tree.003
+    400028: tree.004
+    400030: tree.005
+    400032: tree.006
+    400034: tree.007
+    400036: tree.008
+    400038: tree.009
+    400040: tree.010
+    400042: tree.011
+    400044: tree.012
+    400046: tree.013
+    400048: tree.014
+    2300000: Cube.000
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Plane
+    2300008: Plane.001
+    2300010: Plane.002
+    2300012: Plane.003
+    2300014: tree
+    2300016: tree.001
+    2300018: tree.002
+    2300020: tree.003
+    2300022: tree.004
+    2300024: tree.005
+    2300026: tree.006
+    2300028: tree.007
+    2300030: tree.008
+    2300032: tree.009
+    2300034: tree.010
+    2300036: tree.011
+    2300038: tree.012
+    2300040: tree.013
+    2300042: tree.014
+    3300000: Cube.000
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Plane
+    3300008: Plane.001
+    3300010: Plane.002
+    3300012: Plane.003
+    3300014: tree
+    3300016: tree.001
+    3300018: tree.002
+    3300020: tree.003
+    3300022: tree.004
+    3300024: tree.005
+    3300026: tree.006
+    3300028: tree.007
+    3300030: tree.008
+    3300032: tree.009
+    3300034: tree.010
+    3300036: tree.011
+    3300038: tree.012
+    3300040: tree.013
+    3300042: tree.014
+    4300000: Cube.002
+    4300002: Cube.000
+    4300004: Cube.001
+    4300006: tree.014
+    4300008: tree.013
+    4300010: tree.012
+    4300012: tree.011
+    4300014: tree.010
+    4300016: tree.009
+    4300018: tree.008
+    4300020: Plane.003
+    4300022: tree.007
+    4300024: tree.006
+    4300026: tree.005
+    4300028: tree.004
+    4300030: tree.003
+    4300032: tree.002
+    4300034: tree.001
+    4300036: Plane.002
+    4300038: tree
+    4300040: Plane.001
+    4300042: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
